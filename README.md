@@ -8,7 +8,7 @@
 
 **Requisitos não funcionais**
 
-- Utilizar Mailtrap para testar envios em ambiente de dev;
+- Utilizar Ethereal para testar envios em ambiente de dev;
 - Utilizar Amazon SES para envios em produção;
 - O envio de emails deve acontecer em segundo plano (background job);
 
